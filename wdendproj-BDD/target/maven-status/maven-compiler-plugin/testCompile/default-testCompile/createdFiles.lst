@@ -1,0 +1,7 @@
+TestyBdd\StepDefinitions\Hooks.class
+TestyBdd\StepDefinitions\LoginPageSteps.class
+TestyBdd\DriverManager.class
+TestyBdd\StepDefinitions\HomePageSteps.class
+TestyBdd\Pages\HomePage.class
+TestyBdd\Pages\BasePage.class
+TestyBdd\Pages\LoginPage.class
